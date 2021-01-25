@@ -1,0 +1,15 @@
+{
+  "name": "com.daruma-works.oni.scene-director",
+  "version": "1.0.0-preview",
+  "displayName": "Scene Director",
+  "description": "Scriptable Object wrapper for the Unity SceneManager class to provide stricter access, more features, and customizability",
+  "unity": "2019.4",
+  "keywords": [
+    "scene",
+    "management"
+  ],
+  "author": {
+    "name": "Nathan MacAdam",
+    "url": "https://www.nathanmacadam.dev"
+  }
+}
