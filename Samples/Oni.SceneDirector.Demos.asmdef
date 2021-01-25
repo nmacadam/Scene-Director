@@ -1,0 +1,15 @@
+{
+    "name": "Oni.SceneDirector.Demos",
+    "references": [
+        "GUID:77cd2719c996c3644b6c27f835a567c1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
