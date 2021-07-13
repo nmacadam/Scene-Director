@@ -5,7 +5,7 @@
   "description": "Scriptable Object wrapper for the Unity SceneManager class to provide stricter access, more features, and customizability",
   "unity": "2019.4",
   "dependencies": {
-    "com.daruma-works.scene-reference": "https://github.com/nmacadam/Scene-Reference.git"
+    "com.daruma-works.oni.scene-reference": "https://github.com/nmacadam/Scene-Reference.git"
   },
   "keywords": [
     "scene",
